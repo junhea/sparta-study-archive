@@ -61,6 +61,6 @@ svg 외에는 딱히 생각이 나질 않아 한 줄을 그대로 복사하여 �
 
 gcode를 시각화 해주는 온라인 툴을 사용했더니
 
-![flag](/sparta-study-archive/assets/images/allmn_gflg_flag.PNG)
+![flag](assets/images/allmn_gflg_flag.PNG?raw=true)
 
 플래그가 나왔다

@@ -24,7 +24,7 @@ Mine Sweeping.zip:
 
 실행화면:
 
-![](/sparta-study-archive/assets/images/de1_mine.png)
+![](assets/images/de1_mine.png?raw=true)
 
 유니티 엔진으로 제작한 지뢰찾기 게임이다.
 
@@ -238,7 +238,7 @@ public class Main{
 
 출력:
 
-![QR](/sparta-study-archive/assets/images/de1_mine_qr.jpg)
+![QR](assets/images/de1_mine_qr.jpg?raw=true)
 
 스캔해서 나오는 링크를 따라가면 플래그가 나온다.
 
